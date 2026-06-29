@@ -3,8 +3,8 @@
 **A practical guide for AI agents solving LeetCode-style coding problems with
 optimized Java code, deep explanations, and interview-ready reasoning.**
 
-Owner: Aman Attar  
-GitHub: https://github.com/amanattar/
+Akshay Mahto  
+GitHub: https://github.com/akshaymahto
 
 ---
 

@@ -5,8 +5,8 @@ problems with optimized solutions and detailed explanations — all in **Java**.
 
 ## Owner
 
-Aman Attar  
-GitHub: https://github.com/amanattar/
+Akshay Mahto  
+GitHub: https://github.com/akshaymahto
 
 ## What It Does
 

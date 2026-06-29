@@ -1,5 +1,5 @@
 ---
-name: leetcode-helper-java
+name: leetcode-java-helper
 description: |
   Expert LeetCode problem solver for optimized coding interview solutions in Java.
   Use when: the user pastes a LeetCode problem, asks for an optimized algorithm,
@@ -7,9 +7,9 @@ description: |
   or wants help understanding data structures and algorithms for coding interviews.
 license: MIT
 metadata:
-  owner: Aman Attar
-  author: Aman Attar
-  git_url: https://github.com/amanattar/
+  owner: Akshay Mahto
+  author: Akshay Mahto
+  git_url: https://github.com/akshaymahto
   version: "1.0.0"
 ---
 
